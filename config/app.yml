@@ -1,0 +1,10 @@
+redis:
+  url: localhost
+  port: 6380
+
+accountdb:
+  driverClass: org.postgresql.Driver
+  user: postgres
+  password: postgres
+  url: jdbc:postgresql://localhost:5433/accountdb
+

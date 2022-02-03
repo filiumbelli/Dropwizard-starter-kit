@@ -1,0 +1,8 @@
+/home/serhat/Desktop/projeler/dropwizard-backend/AccountAuthenticator/src/main/java/com/sofisticat/AccountAuthenticatorService.java
+/home/serhat/Desktop/projeler/dropwizard-backend/AccountAuthenticator/src/main/java/com/sofisticat/storage/Accounts.java
+/home/serhat/Desktop/projeler/dropwizard-backend/AccountAuthenticator/src/main/java/com/sofisticat/AccountAuthenticatorConfiguration.java
+/home/serhat/Desktop/projeler/dropwizard-backend/AccountAuthenticator/src/main/java/com/sofisticat/util/SystemMapper.java
+/home/serhat/Desktop/projeler/dropwizard-backend/AccountAuthenticator/src/main/java/com/sofisticat/configuration/RedisConfiguration.java
+/home/serhat/Desktop/projeler/dropwizard-backend/AccountAuthenticator/src/main/java/com/sofisticat/configuration/AccountDatabaseConfiguration.java
+/home/serhat/Desktop/projeler/dropwizard-backend/AccountAuthenticator/src/main/java/com/sofisticat/storage/models/Account.java
+/home/serhat/Desktop/projeler/dropwizard-backend/AccountAuthenticator/src/main/java/com/sofisticat/storage/mappers/AccountRowMapper.java
